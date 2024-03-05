@@ -1,0 +1,9 @@
+General:
+    TOKEN: "" # bot token
+    ACTIVITY: "watching" # playing, watching, listening, streaming
+    DOING_ACTIVITY: "Embeds" # what you want it to be playing, watching, or listening to
+    STREAMING_ACTIVITY_TWITCH_URL: "" # twitch link when ACTIVITY is streaming
+    STATUS: "online" # online, idle, dnd, invisible
+
+AllowedRoles:
+    - 1214336765037383681 # role id that is able to use the commands
